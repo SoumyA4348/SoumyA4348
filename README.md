@@ -4,7 +4,8 @@
 - 💞️ I would like anyone's acompany.
 - 📫 You can reach me through my discord @soumya_le_gend
 - 😄 Pronouns: he/him/brother
-- ⚡ Fun fact: I love to play online games.
+- ⚡ Fun fact: I enjoy playing games.
+- 💻 Python 
 
 <!---
 SoumyA4348/SoumyA4348 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
