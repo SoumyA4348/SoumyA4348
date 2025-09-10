@@ -4,7 +4,7 @@
 - 💞️ I would like anyone's acompany.
 - 📫 You can reach me through my discord @soumya_le_gend
 - 😄 Pronouns: he/him/brother
-- ⚡ Fun fact: I enjoy playing games.
+- ⚡ Fun fact: Phoneix is real.
 - 💻 Python 
 
 <!---
