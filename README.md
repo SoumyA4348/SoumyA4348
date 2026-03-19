@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SoumyA4348
 - 👀 I’m interested in learning new things..
-- 🌱 I want to become an AI Developer.
+- 🌱 🎓 1st-year Computer Science student hunting for Winter 2027 IT Co-ops!.
 - 💞️ I would like anyone's acompany.
 - 📫 You can reach me through my discord @soumya_le_gend
 - 😄 Pronouns: he/him/brother
