@@ -5,7 +5,7 @@
 - 📫 You can reach me through my discord @soumya_le_gend
 - 😄 Pronouns: he/him/brother
 - ⚡ Fun fact: Phoneix is real 🦚 .
-- 💻 Python 
+- 💻 Python, C, HTML, CSS, SQL, Flash 
 
 <!---
 SoumyA4348/SoumyA4348 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
