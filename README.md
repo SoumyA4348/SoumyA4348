@@ -2,8 +2,7 @@
 - 👀 I’m interested in learning new things..
 - 🌱 🎓Computer Science student hunting for Winter 2027 IT Co-ops!.
 - 💞️ I would like anyone's acompany.
-- 📫 You can reach me through my discord @soumya_le_gend, ps457322@gmail.com
-- 😄 Pronouns: he/him/brother
+- 📫 You can reach me through my discord @soumya_le_gend or email me on ps457322@gmail.com
 - ⚡ Fun fact: Phoneix is real 🦚 .
 
 # Soumya Patel | Math & ML Specialist
