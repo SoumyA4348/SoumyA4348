@@ -1,43 +1,60 @@
-- 👋 Hi, I’m @SoumyA4348
-- 👀 I’m interested in learning new things..
-- 🌱 🎓Computer Science student hunting for Winter 2027 IT Co-ops!.
-- 💞️ I would like anyone's acompany.
-- 📫 You can reach me through my discord @soumya_le_gend or email me on ps457322@gmail.com
-- ⚡ Fun fact: Phoneix is real 🦚 .
+# Soumya Patel
 
-# Soumya Patel | Math & ML Specialist
+**CS Co-op @ University of Guelph** · Building end-to-end software from ML classifiers to cloud-native full-stack apps.
 
-**Computer Science Student**
-*Bridging the gap between Discrete Mathematics and Machine Learning.*
+🎓 B.Computing, Computer Science (Co-op) — AI Emphasis · GPA 89.80  
+🔍 Seeking **Winter 2027 Co-op** in Software Development  
+📍 Guelph, ON
 
 ---
 
-###  What I'm Building
-I specialize in projects where math isn't just a library call, but the core engine. My work focuses on **Natural Language Combinatorics**, **Financial Market Regime Detection**, and **Projects for fun**.
+### 🔨 Featured Projects
+
+| Project | Stack | What It Does |
+|---------|-------|-------------|
+| [**GRYPH OS**](https://github.com/SoumyA4348/GRYPHOS) | Next.js · TypeScript · FastAPI · AWS · Gemini AI | "Semester Operating System" — parses PDF syllabi into a live calendar and Kanban board. Built at GDG Hacks 3. |
+| [**DiscreteSolver**](https://github.com/SoumyA4348/DiscreteSolver) | Python · Flask · scikit-learn · LaTeX | ML-powered combinatorics engine — classifies word problems (permutations, combinations, derangements) using a custom SVC model and regex NLP parser. |
+| [**Stock Predictor**](https://github.com/SoumyA4348/StockPredictor) | Python · RandomForest · Sentiment Analysis · Flask | Financial market prediction pipeline with backtesting, paper trading, and multi-indicator technical analysis. |
+| [**C Neural Network**](https://github.com/SoumyA4348/C-Neural-Network) | C99 · Makefile | Feedforward neural network from scratch — no libraries. Matrix operations, backpropagation, and memory management in pure C. |
+| [**legends-launcher**](https://github.com/SoumyA4348/legends-launcher) | Electron · Node.js · Discord RPC | Desktop Minecraft launcher with auto mod-pack updates via Modrinth API. Deployed to 100+ users. |
+| [**PYxSQL**](https://github.com/SoumyA4348/PYxSQL) | Python · MySQL | Backend CRUD application with auth workflows and relational query automation. |
+| [**Discord Translation Bot**](https://github.com/SoumyA4348/Discord-Bot) | Python · discord.py · Google Translate | Real-time multilingual translation bot serving a 100+ member community server. |
 
 ---
-
-###  Featured Projects
-
-#### [DiscreteSolver](https://github.com/SoumyA4348/DiscreteSolver)
-*ML-Powered Combinatorics Engine*
-- **The Problem:** Solving natural language math word problems (permutations, combinations, derangements).
-- **The Solution:** A custom-trained SVC model (scikit-learn) classifies the operation type, while a regex-driven engine extracts variables to compute answers.
-- **Tech:** Python, Flask, scikit-learn, joblib, LaTeX.
-
-
-
 
 ### 💻 Tech Stack
-- **Languages:** Python, C, SQL (MySQL), JavaScript/TypeScript.
-- **ML/Math:** scikit-learn, NumPy, Pandas, LaTeX, Discrete Math.
-- **Backend:** Flask, Express, Node.js.
-- **Automation:** Playwright, Web Scraping.
 
+**Languages:** Python · TypeScript · JavaScript · C · SQL  
+**Backend:** FastAPI · Flask · Node.js · REST APIs  
+**Frontend:** React · Next.js · Tailwind CSS · Framer Motion  
+**Cloud & DevOps:** AWS (S3, Cognito) · Vercel · MongoDB Atlas · Docker  
+**ML & Data:** scikit-learn · NumPy · Pandas · NLP · Gemini AI  
+**Tools:** Git · Linux (Ubuntu/Arch) · VS Code · LaTeX · Playwright
 
+---
 
+### 📜 Certifications
+
+- **IBM Back-End Development** — Django, Docker, REST APIs, Kubernetes *(in progress)*
+- **Google Technical Support Fundamentals** — Coursera (2025)
+- **Python with MySQL Database** — IIELIT Education (2025)
+
+---
+
+### 📊 2026 Focus
+
+- Completing IBM Back-End Development Certificate (Django + Docker)
+- DSA & LeetCode prep for Winter 2027 technical interviews
+- Advancing AI emphasis coursework (CIS\*2520 Data Structures, CIS\*2430 OOP in Java)
+
+---
+
+### 📫 Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/soumya-patel-cs/)
+[![Devpost](https://img.shields.io/badge/Devpost-003E54?style=flat&logo=devpost&logoColor=white)](https://devpost.com/spatel457322)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:spatel70@uoguelph.ca)
 
 <!---
 SoumyA4348/SoumyA4348 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
 --->
