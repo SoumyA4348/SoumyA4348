@@ -2,7 +2,7 @@
 
 **CS Co-op @ University of Guelph** · Building end-to-end software from ML classifiers to cloud-native full-stack apps.
 
-🎓 B.Computing, Computer Science (Co-op) — AI Emphasis · GPA 89.80  
+🎓 B.Computing, Computer Science (Co-op) — AI Emphasis 
 🔍 Seeking **Winter 2027 Co-op** in Software Development  
 📍 Guelph, ON
 
