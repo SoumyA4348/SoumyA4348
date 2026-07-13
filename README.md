@@ -14,7 +14,6 @@
 |---------|-------|-------------|
 | [**GRYPH OS**](https://github.com/SoumyA4348/GRYPHOS) | Next.js · TypeScript · FastAPI · AWS · Gemini AI | "Semester Operating System" — parses PDF syllabi into a live calendar and Kanban board. Built at GDG Hacks 3. |
 | [**DiscreteSolver**](https://github.com/SoumyA4348/DiscreteSolver) | Python · Flask · scikit-learn · LaTeX | ML-powered combinatorics engine — classifies word problems (permutations, combinations, derangements) using a custom SVC model and regex NLP parser. |
-| [**Stock Predictor**](https://github.com/SoumyA4348/StockPredictor) | Python · RandomForest · Sentiment Analysis · Flask | Financial market prediction pipeline with backtesting, paper trading, and multi-indicator technical analysis. |
 | [**C Neural Network**](https://github.com/SoumyA4348/C-Neural-Network) | C99 · Makefile | Feedforward neural network from scratch — no libraries. Matrix operations, backpropagation, and memory management in pure C. |
 | [**legends-launcher**](https://github.com/SoumyA4348/legends-launcher) | Electron · Node.js · Discord RPC | Desktop Minecraft launcher with auto mod-pack updates via Modrinth API. Deployed to 100+ users. |
 | [**PYxSQL**](https://github.com/SoumyA4348/PYxSQL) | Python · MySQL | Backend CRUD application with auth workflows and relational query automation. |
@@ -55,6 +54,3 @@
 [![Devpost](https://img.shields.io/badge/Devpost-003E54?style=flat&logo=devpost&logoColor=white)](https://devpost.com/spatel457322)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:spatel70@uoguelph.ca)
 
-<!---
-SoumyA4348/SoumyA4348 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
---->
