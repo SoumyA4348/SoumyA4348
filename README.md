@@ -28,7 +28,7 @@
 **Frontend:** React · Next.js · Tailwind CSS · Framer Motion  
 **Cloud & DevOps:** AWS (S3, Cognito) · Vercel · MongoDB Atlas · Docker  
 **ML & Data:** scikit-learn · NumPy · Pandas · NLP · Gemini AI  
-**Tools:** Git · Linux (Ubuntu/Arch) · VS Code · LaTeX · Playwright
+**Tools:** Git · Linux (Arch) · VS Code · LaTeX · Playwright
 
 ---
 
