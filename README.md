@@ -26,7 +26,7 @@
 **Languages:** Python · TypeScript · JavaScript · C · SQL  
 **Backend:** FastAPI · Flask · Node.js · REST APIs  
 **Frontend:** React · Next.js · Tailwind CSS · Framer Motion  
-**Cloud & DevOps:** AWS (S3, Cognito) · Vercel · MongoDB Atlas · Docker  
+**Cloud & DevOps:** AWS (S3, Cognito) · Vercel · Docker  
 **ML & Data:** scikit-learn · NumPy · Pandas · NLP · Gemini AI  
 **Tools:** Git · Linux (Arch) · VS Code · LaTeX · Playwright
 
