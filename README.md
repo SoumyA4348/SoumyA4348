@@ -34,7 +34,6 @@
 
 ### 📜 Certifications
 
-- **IBM Back-End Development** — Django, Docker, REST APIs, Kubernetes *(in progress)*
 - **Google Technical Support Fundamentals** — Coursera (2025)
 - **Python with MySQL Database** — IIELIT Education (2025)
 
