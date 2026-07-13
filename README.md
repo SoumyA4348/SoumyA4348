@@ -40,13 +40,7 @@
 
 ---
 
-### 📊 2026 Focus
 
-- Completing IBM Back-End Development Certificate (Django + Docker)
-- DSA & LeetCode prep for Winter 2027 technical interviews
-- Advancing AI emphasis coursework (CIS\*2520 Data Structures, CIS\*2430 OOP in Java)
-
----
 
 ### 📫 Connect
 
