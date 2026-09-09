@@ -39,8 +39,6 @@
 
 ---
 
-
-
 ### 📫 Connect
 
 [![Devpost](https://img.shields.io/badge/Devpost-003E54?style=flat&logo=devpost&logoColor=white)](https://devpost.com/spatel457322)
