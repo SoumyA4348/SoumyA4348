@@ -1,9 +1,7 @@
 # Soumya Patel
 
-**CS Co-op** · Building end-to-end software from ML classifiers to cloud-native full-stack apps.
-
-🎓 B.Computing, Computer Science (Co-op) — AI Emphasis 
-🔍 Seeking **Winter 2027 Co-op** in Software Development  
+I am undergraduate student, majoring in Computer Science with AI emphasis.  
+I am seeking **Winter 2027 Co-op** in Software Development.
 
 ---
 
