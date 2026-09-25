@@ -24,7 +24,7 @@ I am seeking **Winter 2027 Co-op** in Software Development.
 **Frontend:** React · Next.js · Tailwind CSS · Framer Motion  
 **Cloud & DevOps:** AWS (S3, Cognito) · Vercel · Docker  
 **ML & Data:** scikit-learn · NumPy · Pandas · NLP · Gemini AI  
-**Tools:** Git · Linux (Arch) · VS Code · LaTeX · Playwright
+**Tools:** Git · Linux · VS Code · LaTeX · Playwright
 
 ---
 
