@@ -3,6 +3,8 @@
 I am undergraduate student, majoring in Computer Science (AI/ML).  
 I am seeking **Winter 2027 Co-op** in Software Development.
 
+🌐 [soumyapatel.dev](https://soumyapatel.dev)
+
 ---
 
 ### 🔨 Featured Projects
@@ -37,5 +39,6 @@ I am seeking **Winter 2027 Co-op** in Software Development.
 
 ### 📫 Connect
 
+[![Website](https://img.shields.io/badge/Website-soumyapatel.dev-4F46E5?style=flat&logo=googlechrome&logoColor=white)](https://soumyapatel.dev)
 [![Devpost](https://img.shields.io/badge/Devpost-003E54?style=flat&logo=devpost&logoColor=white)](https://devpost.com/spatel457322)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:spatel457322@gmail.com)
