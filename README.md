@@ -3,7 +3,7 @@
 I am undergraduate student, majoring in Computer Science (AI/ML).  
 I am seeking **Winter 2027 Co-op** in Software Development.
 
-🌐 [soumyapatel.dev](https://soumyapatel.dev)
+🐦‍🔥 [soumyapatel.dev](https://soumyapatel.dev)
 
 ---
 
