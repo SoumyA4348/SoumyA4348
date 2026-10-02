@@ -12,7 +12,7 @@ I am seeking **Winter 2027 Co-op** in Software Development.
 | Project | Stack | What It Does |
 |---------|-------|-------------|
 | [**GRYPH OS**](https://github.com/SoumyA4348/GRYPHOS) | Next.js · TypeScript · FastAPI · AWS · Gemini AI | "Semester Operating System" — parses PDF syllabi into a live calendar and Kanban board. Built at GDG Hacks 3. |
-| [**sleepy-accent**](https://github.com/SoumyA4348/sleepy-accent) | Python · faster-whisper · PyAudio · Gemini | Real-time speech capture & intelligence engine with AGC voice booster and session recap synthesis. |
+| [**sleepy-accent**](https://github.com/SoumyA4348/sleepy-accent) | Python · faster-whisper · PyAudio  | Real-time speech capture & intelligence engine with AGC voice booster and session recap synthesis. |
 | [**legends-launcher**](https://github.com/SoumyA4348/legends-launcher) | Electron · Node.js · Discord RPC | Desktop Minecraft launcher with auto mod-pack updates via Modrinth API. |
 | [**DiscreteSolver**](https://github.com/SoumyA4348/discrete-solver) | Python · Flask · scikit-learn · LaTeX | ML-powered solver — classifies word problems (permutations, combinations, derangements) using a custom SVC model and regex parser. |
 | [**PYxSQL**](https://github.com/SoumyA4348/PYxSQL) | Python · MySQL | Backend CRUD application with auth workflows and relational query automation. |
