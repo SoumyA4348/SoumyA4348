@@ -16,7 +16,7 @@ I am seeking **Winter 2027 Co-op** in Software Development.
 | [**legends-launcher**](https://github.com/SoumyA4348/legends-launcher) | Electron · Node.js · Discord RPC | Desktop Minecraft launcher with auto mod-pack updates via Modrinth API. |
 | [**DiscreteSolver**](https://github.com/SoumyA4348/discrete-solver) | Python · Flask · scikit-learn · LaTeX | ML-powered solver — classifies word problems (permutations, combinations, derangements) using a custom SVC model and regex parser. |
 | [**PYxSQL**](https://github.com/SoumyA4348/PYxSQL) | Python · MySQL | Backend CRUD application with auth workflows and relational query automation. |
-| [**Discord-Bot**](https://github.com/SoumyA4348/Discord-Bot) | Python · discord.py · Google Translate | Real-time multilingual translation bot serving a 100+ member community server. |
+| [**Alteristics**](https://github.com/SoumyA4348/Discord-Bot) | Python · discord.py · Google Translate | Real-time multilingual translation bot serving a 100+ member community server. |
 
 ---
 
