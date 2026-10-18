@@ -2,7 +2,7 @@
 
 Targeting **Winter 2027 Co-op** Placements
 
-🌐 [soumyapatel.dev](https://soumyapatel.dev) &bull; 🐙 [github.com/SoumyA4348](https://github.com/SoumyA4348)
+🐦‍🔥 [soumyapatel.dev](https://soumyapatel.dev)
 
 ---
 
@@ -40,6 +40,5 @@ Targeting **Winter 2027 Co-op** Placements
 ### 📫 Endpoints & Connect
 
 [![Website](https://img.shields.io/badge/Website-soumyapatel.dev-0284C7?style=flat&logo=googlechrome&logoColor=white)](https://soumyapatel.dev)
-[![GitHub](https://img.shields.io/badge/GitHub-SoumyA4348-181717?style=flat&logo=github&logoColor=white)](https://github.com/SoumyA4348)
 [![Devpost](https://img.shields.io/badge/Devpost-Hackathons-003E54?style=flat&logo=devpost&logoColor=white)](https://devpost.com/spatel457322)
 [![Email](https://img.shields.io/badge/Email-Direct_Contact-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:spatel457322@gmail.com)
