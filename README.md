@@ -10,6 +10,7 @@ Targeting **Winter 2027 Co-op** Placements
 
 | System | Primary Stack & Topics | Architecture & Key Deliverables |
 | :--- | :--- | :--- |
+| [**MEDIQ**](https://github.com/GurkiratA/MEDIQ) | `TypeScript` · `React 19` · `ONNX WASM` · `MediaPipe` · `Gemini API` · `Hermes 3` · `Docker` | **Clinical Intelligence Co-Pilot (🥈 2nd Rank — Hacktoberfest Hacks Day 3):** Touchless OR workstation combining on-device voice biometrics (<40ms WeSpeaker ONNX), 3D sterile hand gestures, and dual-model AI consensus to catch lethal EHR contraindications. |
 | [**GRYPH OS**](https://github.com/SoumyA4348/GRYPHOS) | `FastAPI` · `Next.js` · `Docker` · `TypeScript` · `MongoDB` · `Gemini API` | **Cloud-native Academic OS:** Parses multi-page PDF syllabi into synchronized calendars & Kanban boards. Built under 24-hour hackathon constraints; slashed LLM token costs by 70% via a hybrid RegEx/PyPDF fallback parser. |
 | [**Legends Launcher**](https://github.com/SoumyA4348/legends-launcher) | `Electron` · `Node.js` · `REST APIs` · `Discord RPC` · `Security` | **Desktop Game Client & Mod Engine:** Automated Modrinth API synchronization with background dependency resolution, automated SHA-256 binary integrity validation, and custom process isolation. |
 | [**DiscreteSolver**](https://github.com/SoumyA4348/discrete-solver) | `Python` · `Flask` · `scikit-learn` · `NLP` · `LaTeX` · `Docker` | **ML Combinatorics Engine:** Classifies and solves complex discrete mathematics word problems using a Support Vector Classifier (SVC), custom RegEx tokenizers, and real-time client-side LaTeX formula rendering. |
@@ -22,10 +23,10 @@ Targeting **Winter 2027 Co-op** Placements
 
 * **Languages:** Python, C / Systems, TypeScript, JavaScript, SQL (PostgreSQL, MySQL), HTML5/CSS3
 * **Backend & Systems:** FastAPI, Flask, Node.js, Express, RESTful APIs, Nginx, Linux / Bash, Process Management
-* **Frontend Architecture:** React, Next.js, Tailwind CSS, Framer Motion, Responsive UI/UX
+* **Frontend Architecture:** React (19), Next.js, Three.js / WebGL, Tailwind CSS, Framer Motion, Responsive UI/UX
 * **Cloud & Infrastructure:** Docker, Docker Compose, AWS (S3, Cognito), Vercel, Git / GitHub Actions CI
 * **Databases & Storage:** PostgreSQL, MySQL, MongoDB, Relational Schema Normalization (3NF), Query Optimization
-* **Applied Machine Learning & DSP:** scikit-learn, NLP, Prompt Engineering, faster-whisper, PyAudio, Pandas, NumPy
+* **Applied Machine Learning & DSP:** ONNX Runtime, MediaPipe, scikit-learn, NLP, Prompt Engineering, faster-whisper, PyAudio, Pandas, NumPy
 * **Software Quality & Testing:** PyTest, Unit Testing, SHA-256 Integrity Checks, Playwright Automation
 
 ---
