@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0D0D0D,50:8B0000,100:FF4500" />
+  <img src="assets/header.svg" />
 </p>
 
 <p align="center">
@@ -49,5 +49,5 @@
 [![Email](https://img.shields.io/badge/Email-Direct_Contact-FF4500?style=for-the-badge&logo=gmail&logoColor=FFB800&labelColor=0D0D0D)](mailto:spatel457322@gmail.com)
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:FF4500,50:8B0000,100:0D0D0D" />
+  <img src="assets/footer.svg" />
 </p>
