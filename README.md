@@ -1,12 +1,17 @@
-# Soumya Patel
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0D0D0D,50:8B0000,100:FF4500&text=Soumya%20Patel&fontColor=FFB800&fontSize=60&animation=fadeIn&desc=Forged%20in%20code&descAlignY=70&descColor=FFD27F" />
+</p>
 
-Targeting **Winter 2027 Co-op** Placements
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=700&size=22&color=FF4500&center=true&vCenter=true&width=600&lines=Backend+%C2%B7+Systems+%C2%B7+Applied+ML;Rising+from+the+ashes+of+every+bug+%F0%9F%90%A6%E2%80%8D%F0%9F%94%A5" />
+</p>
 
-🐦‍🔥 [soumyapatel.dev](https://soumyapatel.dev)
+<p align="center">
+  Targeting <b>Winter 2027 Co-op</b> Placements<br/>
+  🐦‍🔥 <a href="https://soumyapatel.dev">soumyapatel.dev</a>
+</p>
 
----
-
-### 🔨 Featured Systems & Projects
+### 🔥 Featured Projects
 
 | System | Primary Stack & Topics | Architecture & Key Deliverables |
 | :--- | :--- | :--- |
@@ -17,9 +22,7 @@ Targeting **Winter 2027 Co-op** Placements
 | [**PYxSQL Engine**](https://github.com/SoumyA4348/PYxSQL) | `Python` · `MySQL` · `PostgreSQL` · `Database Design` · `ACID` | **Relational Query & Auth Architecture:** Automated CRUD pipeline enforcing 3NF schema constraints, parameterized queries for SQL injection prevention, and transactional ACID guarantees. |
 | [**sleepy-accent**](https://github.com/SoumyA4348/sleepy-accent) | `Python` · `faster-whisper` · `PyAudio` · `DSP` · `AsyncIO` | **Low-Latency Speech Intelligence:** Real-time microphone capture with hardware-aware Automatic Gain Control (AGC), offline Whisper transcription, and structured meeting recap synthesis. |
 
----
-
-### 💻 Technical Competencies & Topics
+### 📜 Technical Skills
 
 * **Languages:** Python, C / Systems, TypeScript, JavaScript, SQL (PostgreSQL, MySQL), HTML5/CSS3
 * **Backend & Systems:** FastAPI, Flask, Node.js, Express, RESTful APIs, Nginx, Linux / Bash, Process Management
@@ -29,18 +32,25 @@ Targeting **Winter 2027 Co-op** Placements
 * **Applied Machine Learning & DSP:** ONNX Runtime, MediaPipe, scikit-learn, NLP, Prompt Engineering, faster-whisper, PyAudio, Pandas, NumPy
 * **Software Quality & Testing:** PyTest, Unit Testing, SHA-256 Integrity Checks, Playwright Automation
 
----
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SoumyA4348&show_icons=true&hide_border=true&bg_color=0D0D0D&title_color=FF4500&icon_color=FFB800&text_color=E8D5C4" />
+</p>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SoumyA4348&bg_color=0D0D0D&color=FFB800&line=FF4500&point=FFD27F&hide_border=true" />
+</p>
 
-### 📜 Technical Certifications
+### 🏺 Certifications
 
 * [**Neural Networks and Deep Learning**](https://coursera.org/verify/457GD1Q0GY27) — DeepLearning.AI (Algorithmic Vectorization, Backpropagation, Multi-Layer Perceptrons)
 * **Google Technical Support Fundamentals** — Coursera (Hardware Diagnostics, Networking, System Admin)
 * **Python with MySQL Database Systems** — IIELIT Education (Database Normalization & Query Execution)
 
----
+### 🐦‍🔥 Connect with Me
 
-### 📫 Endpoints & Connect
+[![Website](https://img.shields.io/badge/Website-soumyapatel.dev-8B0000?style=for-the-badge&logo=googlechrome&logoColor=FFB800&labelColor=0D0D0D)](https://soumyapatel.dev)
+[![Devpost](https://img.shields.io/badge/Devpost-Hackathons-B22222?style=for-the-badge&logo=devpost&logoColor=FFB800&labelColor=0D0D0D)](https://devpost.com/spatel457322)
+[![Email](https://img.shields.io/badge/Email-Direct_Contact-FF4500?style=for-the-badge&logo=gmail&logoColor=FFB800&labelColor=0D0D0D)](mailto:spatel457322@gmail.com)
 
-[![Website](https://img.shields.io/badge/Website-soumyapatel.dev-0284C7?style=flat&logo=googlechrome&logoColor=white)](https://soumyapatel.dev)
-[![Devpost](https://img.shields.io/badge/Devpost-Hackathons-003E54?style=flat&logo=devpost&logoColor=white)](https://devpost.com/spatel457322)
-[![Email](https://img.shields.io/badge/Email-Direct_Contact-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:spatel457322@gmail.com)
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:FF4500,50:8B0000,100:0D0D0D" />
+</p>
