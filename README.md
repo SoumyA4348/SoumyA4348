@@ -1,5 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0D0D0D,50:8B0000,100:FF4500&text=Soumya%20Patel&fontColor=FFB800&fontSize=60&animation=fadeIn&desc=Forged%20in%20code&descAlignY=70&descColor=FFD27F" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0D0D0D,50:8B0000,100:FF4500" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Cinzel+Decorative&weight=700&size=48&color=FFB800&center=true&vCenter=true&width=600&height=80&repeat=false&lines=Soumya+Patel" />
 </p>
 
 <p align="center">
