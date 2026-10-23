@@ -32,14 +32,7 @@
 * **Applied Machine Learning & DSP:** ONNX Runtime, MediaPipe, scikit-learn, NLP, Prompt Engineering, faster-whisper, PyAudio, Pandas, NumPy
 * **Software Quality & Testing:** PyTest, Unit Testing, SHA-256 Integrity Checks, Playwright Automation
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SoumyA4348&show_icons=true&hide_border=true&bg_color=0D0D0D&title_color=FF4500&icon_color=FFB800&text_color=E8D5C4" />
-</p>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SoumyA4348&bg_color=0D0D0D&color=FFB800&line=FF4500&point=FFD27F&hide_border=true" />
-</p>
-
-### 🏺 Certifications
+### 🏅 Certifications
 
 * [**Neural Networks and Deep Learning**](https://coursera.org/verify/457GD1Q0GY27) — DeepLearning.AI (Algorithmic Vectorization, Backpropagation, Multi-Layer Perceptrons)
 * **Google Technical Support Fundamentals** — Coursera (Hardware Diagnostics, Networking, System Admin)
