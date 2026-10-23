@@ -1,30 +1,25 @@
 <p align="center">
-  <img src="assets/header.svg" />
+  <img src="assets/header.svg" width="100%" alt="Soumya Patel — Backend · Systems · Applied ML" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Cinzel+Decorative&weight=700&size=48&color=FFB800&center=true&vCenter=true&width=600&height=80&repeat=false&lines=Soumya+Patel" />
+  <img src="assets/tagline.svg" width="560" alt="Rising from the ashes of every bug" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=700&size=22&color=FF4500&center=true&vCenter=true&width=600&lines=Backend+%C2%B7+Systems+%C2%B7+Applied+ML;Rising+from+the+ashes+of+every+bug+%F0%9F%90%A6%E2%80%8D%F0%9F%94%A5" />
-</p>
-
-<p align="center">
-  Targeting <b>Winter 2027 Co-op</b> Placements<br/>
-  🐦‍🔥 <a href="https://soumyapatel.dev">soumyapatel.dev</a>
+  Targeting <b>Winter 2027 Co-op</b> Placements · 🐦‍🔥 <a href="https://soumyapatel.dev">soumyapatel.dev</a>
 </p>
 
 ### 🔥 Featured Projects
 
-| System | Primary Stack & Topics | Architecture & Key Deliverables |
-| :--- | :--- | :--- |
-| [**MEDIQ**](https://github.com/GurkiratA/MEDIQ) | `TypeScript` · `React 19` · `ONNX WASM` · `MediaPipe` · `Gemini API` · `Hermes 3` · `Docker` | **Clinical Intelligence Co-Pilot (🥈 2nd Rank — Hacktoberfest Hacks Day 3):** Touchless OR workstation combining on-device voice biometrics (<40ms WeSpeaker ONNX), 3D sterile hand gestures, and dual-model AI consensus to catch lethal EHR contraindications. |
-| [**GRYPH OS**](https://github.com/SoumyA4348/GRYPHOS) | `FastAPI` · `Next.js` · `Docker` · `TypeScript` · `MongoDB` · `Gemini API` | **Cloud-native Academic OS:** Parses multi-page PDF syllabi into synchronized calendars & Kanban boards. Built under 24-hour hackathon constraints; slashed LLM token costs by 70% via a hybrid RegEx/PyPDF fallback parser. |
-| [**Legends Launcher**](https://github.com/SoumyA4348/legends-launcher) | `Electron` · `Node.js` · `REST APIs` · `Discord RPC` · `Security` | **Desktop Game Client & Mod Engine:** Automated Modrinth API synchronization with background dependency resolution, automated SHA-256 binary integrity validation, and custom process isolation. |
-| [**DiscreteSolver**](https://github.com/SoumyA4348/discrete-solver) | `Python` · `Flask` · `scikit-learn` · `NLP` · `LaTeX` · `Docker` | **ML Combinatorics Engine:** Classifies and solves complex discrete mathematics word problems using a Support Vector Classifier (SVC), custom RegEx tokenizers, and real-time client-side LaTeX formula rendering. |
-| [**PYxSQL Engine**](https://github.com/SoumyA4348/PYxSQL) | `Python` · `MySQL` · `PostgreSQL` · `Database Design` · `ACID` | **Relational Query & Auth Architecture:** Automated CRUD pipeline enforcing 3NF schema constraints, parameterized queries for SQL injection prevention, and transactional ACID guarantees. |
-| [**sleepy-accent**](https://github.com/SoumyA4348/sleepy-accent) | `Python` · `faster-whisper` · `PyAudio` · `DSP` · `AsyncIO` | **Low-Latency Speech Intelligence:** Real-time microphone capture with hardware-aware Automatic Gain Control (AGC), offline Whisper transcription, and structured meeting recap synthesis. |
+| Project | What It Is |
+| :--- | :--- |
+| [**MEDIQ**](https://github.com/GurkiratA/MEDIQ) | **Clinical Intelligence Co-Pilot (🥈 2nd Rank — Hacktoberfest Hacks Day 3):** Touchless OR workstation combining on-device voice biometrics (<40ms WeSpeaker ONNX), 3D sterile hand gestures, and dual-model AI consensus to catch lethal EHR contraindications.<br/>`TypeScript` `React 19` `ONNX WASM` `MediaPipe` `Gemini API` `Hermes 3` `Docker` |
+| [**GRYPH OS**](https://github.com/SoumyA4348/GRYPHOS) | **Cloud-native Academic OS:** Parses multi-page PDF syllabi into synchronized calendars & Kanban boards. Built under 24-hour hackathon constraints; slashed LLM token costs by 70% via a hybrid RegEx/PyPDF fallback parser.<br/>`FastAPI` `Next.js` `Docker` `TypeScript` `MongoDB` `Gemini API` |
+| [**Legends Launcher**](https://github.com/SoumyA4348/legends-launcher) | **Desktop Game Client & Mod Engine:** Automated Modrinth API synchronization with background dependency resolution, automated SHA-256 binary integrity validation, and custom process isolation.<br/>`Electron` `Node.js` `REST APIs` `Discord RPC` `Security` |
+| [**DiscreteSolver**](https://github.com/SoumyA4348/discrete-solver) | **ML Combinatorics Engine:** Classifies and solves complex discrete mathematics word problems using a Support Vector Classifier (SVC), custom RegEx tokenizers, and real-time client-side LaTeX formula rendering.<br/>`Python` `Flask` `scikit-learn` `NLP` `LaTeX` `Docker` |
+| [**PYxSQL Engine**](https://github.com/SoumyA4348/PYxSQL) | **Relational Query & Auth Architecture:** Automated CRUD pipeline enforcing 3NF schema constraints, parameterized queries for SQL injection prevention, and transactional ACID guarantees.<br/>`Python` `MySQL` `PostgreSQL` `Database Design` `ACID` |
+| [**sleepy-accent**](https://github.com/SoumyA4348/sleepy-accent) | **Low-Latency Speech Intelligence:** Real-time microphone capture with hardware-aware Automatic Gain Control (AGC), offline Whisper transcription, and structured meeting recap synthesis.<br/>`Python` `faster-whisper` `PyAudio` `DSP` `AsyncIO` |
 
 ### 📜 Technical Skills
 
@@ -44,10 +39,12 @@
 
 ### 🐦‍🔥 Connect with Me
 
-[![Website](https://img.shields.io/badge/Website-soumyapatel.dev-8B0000?style=for-the-badge&logo=googlechrome&logoColor=FFB800&labelColor=0D0D0D)](https://soumyapatel.dev)
-[![Devpost](https://img.shields.io/badge/Devpost-Hackathons-B22222?style=for-the-badge&logo=devpost&logoColor=FFB800&labelColor=0D0D0D)](https://devpost.com/spatel457322)
-[![Email](https://img.shields.io/badge/Email-Direct_Contact-FF4500?style=for-the-badge&logo=gmail&logoColor=FFB800&labelColor=0D0D0D)](mailto:spatel457322@gmail.com)
+<p align="center">
+  <a href="https://soumyapatel.dev"><img src="https://img.shields.io/badge/Website-soumyapatel.dev-8B0000?style=for-the-badge&logo=googlechrome&logoColor=FFB800&labelColor=0D0D0D" alt="Website" /></a>
+  <a href="https://devpost.com/spatel457322"><img src="https://img.shields.io/badge/Devpost-Hackathons-B22222?style=for-the-badge&logo=devpost&logoColor=FFB800&labelColor=0D0D0D" alt="Devpost" /></a>
+  <a href="mailto:spatel457322@gmail.com"><img src="https://img.shields.io/badge/Email-Direct_Contact-FF4500?style=for-the-badge&logo=gmail&logoColor=FFB800&labelColor=0D0D0D" alt="Email" /></a>
+</p>
 
 <p align="center">
-  <img src="assets/footer.svg" />
+  <img src="assets/footer.svg" width="100%" alt="" />
 </p>
