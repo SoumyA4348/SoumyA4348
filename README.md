@@ -34,7 +34,6 @@
 ### 🏅 Certifications
 
 * [**Neural Networks and Deep Learning**](https://coursera.org/verify/457GD1Q0GY27) — DeepLearning.AI (Algorithmic Vectorization, Backpropagation, Multi-Layer Perceptrons)
-* **Google Technical Support Fundamentals** — Coursera (Hardware Diagnostics, Networking, System Admin)
 * **Python with MySQL Database Systems** — IIELIT Education (Database Normalization & Query Execution)
 
 ### 🐦‍🔥 Connect with Me
