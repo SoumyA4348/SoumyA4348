@@ -3,10 +3,6 @@
 </p>
 
 <p align="center">
-  <img src="assets/tagline.svg" width="560" alt="Rising from the ashes of every bug" />
-</p>
-
-<p align="center">
   Targeting <b>Winter 2027 Co-op</b> Placements · 🐦‍🔥 <a href="https://soumyapatel.dev">soumyapatel.dev</a>
 </p>
 
