@@ -37,7 +37,7 @@
 <p align="center">
   <a href="https://soumyapatel.dev"><img src="https://img.shields.io/badge/Website-soumyapatel.dev-8B0000?style=for-the-badge&logo=googlechrome&logoColor=FFB800&labelColor=0D0D0D" alt="Website" /></a>
   <a href="https://devpost.com/spatel457322"><img src="https://img.shields.io/badge/Devpost-Hackathons-B22222?style=for-the-badge&logo=devpost&logoColor=FFB800&labelColor=0D0D0D" alt="Devpost" /></a>
-  <a href="mailto:spatel457322@gmail.com"><img src="https://img.shields.io/badge/Email-Direct_Contact-FF4500?style=for-the-badge&logo=gmail&logoColor=FFB800&labelColor=0D0D0D" alt="Email" /></a>
+  <a href="mailto:contact@soumyapatel.dev"><img src="https://img.shields.io/badge/Email-Direct_Contact-FF4500?style=for-the-badge&logo=gmail&logoColor=FFB800&labelColor=0D0D0D" alt="Email" /></a>
 </p>
 
 <p align="center">
