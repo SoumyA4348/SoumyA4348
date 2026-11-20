@@ -10,23 +10,20 @@
 
 | Project | What It Is |
 | :--- | :--- |
-| [**HiddenPrompt Census**](https://github.com/SoumyA4348/hiddenprompt-scan) | **Hidden AI-reviewer prompts in 1.4M preprints ([paper](https://doi.org/10.20944/preprints202611.0885.v1)):** Scanned 1.4M arXiv and 427k bioRxiv/medRxiv PDFs for text an AI reads but a person can't see. Found 58 papers hiding review prompts, then showed that all 6 LLMs tested on AWS Bedrock scored papers higher under injection. Ships as a CLI, Python library and MCP server, plus [X-ray](https://soumya4348.github.io/hiddenprompt-xray/), a browser version that never uploads your file.<br/>`Python` `PyMuPDF` `Pyodide` `AWS Bedrock` `MCP` |
-| [**MEDIQ**](https://github.com/SoumyA4348/Mediq) | **Hands-free patient records for operating rooms (🥈 2nd place, Hacktoberfest Hack Day):** Clinicians pull up records, vitals and imaging by voice and hand gestures, so they never touch a screen. Speaker recognition runs on-device (WeSpeaker ONNX).<br/>**My role (team project):** MediaPipe gesture handling, voice handling, add-patient flow, prompting, bug fixing.<br/>`TypeScript` `React 19` `ONNX WASM` `MediaPipe` `Gemini API` |
-| [**GRYPH OS**](https://github.com/SoumyA4348/GRYPHOS) | **Syllabus PDFs into calendars and Kanban boards:** Built in 24 hours at GDG Hacks 3. Extracts text with pypdf and uses Gemini to pull out deadlines, with a regex fallback. I later [benchmarked this design against four alternatives](https://github.com/SoumyA4348/syllabus-extraction-benchmark) on 16 public syllabi.<br/>**My role (team of 2):** planned every feature, built the frontend and visuals, and delivered the pitch.<br/>`FastAPI` `React` `Docker` `MongoDB` `Gemini API` |
-| [**Legends Launcher**](https://github.com/SoumyA4348/legends-launcher) | **Minecraft launcher with automatic mod updates:** Downloads and updates Fabric mods from Modrinth, checks downloaded files with SHA-256 checksums, and shows what you are playing on Discord. Latest: [v1.1.6](https://github.com/SoumyA4348/legends-launcher/releases/latest).<br/>`Electron` `Node.js` `REST APIs` `Discord RPC` |
-| [**DiscreteSolver**](https://github.com/SoumyA4348/discrete-solver) | **Solves discrete math word problems:** Sorts each problem by type with a scikit-learn classifier (SVC), reads it with a RegEx parser, and shows the working in LaTeX.<br/>`Python` `Flask` `scikit-learn` `LaTeX` `Docker` |
-| [**PYxSQL**](https://github.com/SoumyA4348/PYxSQL) | **Python + MySQL database app:** Creates linked tables, runs CRUD and JOIN queries, and checks logins. Uses parameterized queries and commit/rollback transactions.<br/>`Python` `MySQL` `SQL` |
-| [**sleepy-accent**](https://github.com/SoumyA4348/sleepy-accent) | **Live lecture notes from your microphone:** Transcribes speech offline with faster-whisper, boosts quiet voices, and turns the session into a short recap with Gemini (local fallback when offline).<br/>`Python` `faster-whisper` `Gemini API` |
+| [**HiddenPrompt Census**](https://github.com/SoumyA4348/hiddenprompt-scan) | **Hidden AI-reviewer prompts in 1.4M preprints ([paper](https://doi.org/10.20944/preprints202611.0885.v1)):** Found 58 papers hiding review prompts and showed that all 6 LLMs tested scored papers higher under injection. The scanner ships as a CLI, Python library, MCP server and in-browser [X-ray](https://soumya4348.github.io/hiddenprompt-xray/).<br/>`Python` `PyMuPDF` `Pyodide` `AWS Bedrock` |
+| [**MEDIQ**](https://github.com/SoumyA4348/Mediq) | **Hands-free patient records for operating rooms (🥈 2nd place, Hacktoberfest Hack Day):** Voice and hand gestures pull up records, vitals and imaging, with on-device speaker recognition.<br/>**My role:** gesture and voice handling, add-patient flow.<br/>`TypeScript` `React 19` `ONNX` `MediaPipe` `Gemini API` |
+| [**GRYPH OS**](https://github.com/SoumyA4348/GRYPHOS) | **Syllabus PDFs into calendars and Kanban boards (GDG Hacks 3, 24 hours):** Gemini pulls out deadlines with a regex fallback; I later [benchmarked the design against four alternatives](https://github.com/SoumyA4348/syllabus-extraction-benchmark).<br/>**My role (team of 2):** feature plan, frontend, pitch.<br/>`FastAPI` `React` `Docker` `MongoDB` |
+| [**Legends Launcher**](https://github.com/SoumyA4348/legends-launcher) | **Minecraft launcher with automatic mod updates:** Syncs Fabric mods from Modrinth, verifies files with SHA-256 and shows Discord Rich Presence. Latest: [v1.1.6](https://github.com/SoumyA4348/legends-launcher/releases/latest).<br/>`Electron` `Node.js` `Discord RPC` |
+| [**DiscreteSolver**](https://github.com/SoumyA4348/discrete-solver) | **Solves discrete math word problems:** A scikit-learn classifier sorts each problem, a RegEx parser reads it, and the working is shown in LaTeX.<br/>`Python` `Flask` `scikit-learn` |
 
 ### 📜 Technical Skills
 
-* **Languages:** Python, C / Systems, TypeScript, JavaScript, SQL (PostgreSQL, MySQL), HTML5/CSS3
-* **Backend & Systems:** FastAPI, Flask, Node.js, Express, RESTful APIs, Linux / Bash
-* **Frontend Architecture:** React (19), Tailwind CSS, Framer Motion, Responsive UI/UX
-* **Cloud & Infrastructure:** Docker, Docker Compose, AWS (S3), Vercel, Git / GitHub Actions CI
-* **Databases & Storage:** PostgreSQL, MySQL, MongoDB, Relational Schema Normalization (3NF), Query Optimization
-* **Applied Machine Learning & DSP:** ONNX Runtime, MediaPipe, scikit-learn, NLP, faster-whisper, PyAudio, Pandas, NumPy
-* **Software Quality & Testing:** PyTest, Unit Testing, SHA-256 Integrity Checks
+* **Languages:** Python, C, TypeScript, JavaScript, SQL
+* **Backend:** FastAPI, Flask, Node.js, REST APIs, Linux / Bash
+* **Frontend:** React, Tailwind CSS
+* **Cloud & DevOps:** Docker, AWS (S3, Bedrock), Vercel, GitHub Actions
+* **Data & ML:** PostgreSQL, MySQL, MongoDB, scikit-learn, ONNX Runtime, MediaPipe, Pandas, NumPy
+* **Testing:** PyTest
 
 ### 🏅 Certifications
 
